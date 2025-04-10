@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-👋 Hi, I'm Maximo Penayo, a web development enthusiast passionate about creating innovative and efficient digital experiences. I studied Information Systems for two years, where I gained a solid foundation in technology and programming. Currently, I'm pursuing a Technical Degree in Programming at UTN, where I'm deepening my knowledge and skills in software development.
+👋 Hi, My name is Maximo. I am currently studying Programming Technology at UTN FRRe. I studied Information Systems for two years, where I acquired a solid foundation in algorithms and data structure.
 
 💻 I love working with web technologies and I'm always eager to learn and apply new tools. I'm excited to collaborate on projects that make a positive impact and to share my knowledge with the community.
 
