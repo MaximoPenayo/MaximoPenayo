@@ -30,8 +30,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 🌐 Feel free to connect with me!
 
-😂 Sometimes I leave my github open in random pc's
-
 [![-----------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
